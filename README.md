@@ -7,6 +7,8 @@ description: >-
 
 # RiteOfMoloch
 
+<figure><img src="https://i.imgur.com/VAZ8SDT.jpg" alt=""><figcaption></figcaption></figure>
+
 DAOs commit resources towards onboarding, while cohort participants often have little to no skin in the game. This can lead to wasteful outcomes, in terms of DAO resources and onboarding success rates.
 
 This tool has been designed for DAOs to deploy their own cohort clones, which require users to stake certain assets. The participants receive a soul bound token, after staking, and this token is used to provide gated access to the cohort and resources.

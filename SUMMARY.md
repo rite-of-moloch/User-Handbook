@@ -2,18 +2,11 @@
 
 * [RiteOfMoloch](README.md)
 
-## Guides
+## Dapp Usage
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Join Cohort / Staking](dapp-usage/join-cohort-staking.md)
+* [Claim](dapp-usage/claim.md)
+* [Slashing](dapp-usage/slashing.md)
 
 ## Use Cases
 
@@ -23,7 +16,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [RiteOfMoloch](README.md)
-* [RiteOfMoloch](riteofmoloch-1.md)
 
 ## Join Cohort
 

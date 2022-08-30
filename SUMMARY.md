@@ -2,11 +2,17 @@
 
 * [RiteOfMoloch](README.md)
 
-## Dapp Usage
+## Join Cohort
 
-* [Join Cohort / Staking](dapp-usage/join-cohort-staking.md)
-* [Claim](dapp-usage/claim.md)
-* [Slashing](dapp-usage/slashing.md)
+* [Join Cohort / Staking](join-cohort/join-cohort-staking.md)
+* [Claim](join-cohort/claim.md)
+* [Slashing](join-cohort/slashing.md)
+* [Copy of Slashing](join-cohort/copy-of-slashing.md)
+
+## Deploy a Cohort
+
+* [Requirements](deploy-a-cohort/requirements.md)
+* [Usage](deploy-a-cohort/usage.md)
 
 ## Use Cases
 

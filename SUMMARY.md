@@ -16,5 +16,5 @@
 
 ## Information
 
-* [Links](information/links.md)
+* [Links](use-cases/for-designers/README.md)
 * [Contracts](information/contracts.md)

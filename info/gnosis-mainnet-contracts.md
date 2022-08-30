@@ -4,8 +4,3 @@ Rite of Moloch - Cohort V (ROM) / _SBT Staking RiteOfMoloch contract proxy_ [htt
 
 RiteOfMolochFactory [https://blockscout.com/xdai/mainnet/address/0xBb7353efB505D63408D1C762A5C3A1636E9Ca003/contracts#address-tabs](https://blockscout.com/xdai/mainnet/address/0xBb7353efB505D63408D1C762A5C3A1636E9Ca003/contracts#address-tabs)
 
-
-
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
-{% endhint %}

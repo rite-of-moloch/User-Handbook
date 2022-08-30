@@ -1,7 +1,22 @@
-# What is MyProduct?
+---
+description: >-
+  Raid Guild is introducing an open source staking and soul bound token cohort
+  dApp, for asynchronous onboarding and built to be interoperable for Moloch
+  DAOs.
+---
+
+# RiteOfMoloch
+
+DAOs commit resources towards onboarding, while cohort participants often have little to no skin in the game. This can lead to wasteful outcomes, in terms of DAO resources and onboarding success rates.
+
+This tool has been designed for DAOs to deploy their own cohort clones, which require users to stake certain assets. The participants receive a soul bound token, after staking, and this token is used to provide gated access to the cohort and resources.
+
+The staked assets are then forfeited if the user doesn’t complete the onboarding process. The individual cohort contracts are not upgradeable, but the cohort clone factory contract enables additional implementations to be added.
+
+Currently the cohorts are specifically designed for Moloch DAOs and DAOHaus, but we can easily add new implementations for staking NFTs, or different membership criteria.
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**This tool has the potential to retain engagement and support cohort facilitation, while supporting and enhancing cohort organizations.**
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:

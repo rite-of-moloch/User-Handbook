@@ -16,5 +16,5 @@
 
 ## Info
 
-* [Links](info/links.md)
-* [Contracts](info/contracts.md)
+* [Links](use-cases/for-designers/README.md)
+* [Gnosis Mainnet Contracts](info/gnosis-mainnet-contracts.md)

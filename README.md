@@ -16,6 +16,3 @@ The staked assets are then forfeited if the user doesn’t complete the onboardi
 
 Currently the cohorts are specifically designed for Moloch DAOs and DAOHaus, but we can easily add new implementations for staking NFTs, or different membership criteria.
 
-{% hint style="info" %}
-**This tool has the potential to retain engagement and support cohort facilitation, while supporting and enhancing cohort organizations.**
-{% endhint %}

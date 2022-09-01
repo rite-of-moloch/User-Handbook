@@ -1,3 +1,7 @@
+---
+description: Up for the challenge?
+---
+
 # Sponsor a Cohort
 
 {% hint style="info" %}

@@ -4,11 +4,11 @@
 
 ## Join Cohort
 
-* [Join a Cohort](join-cohort/projects/README.md)
+* [Join a Cohort](fundamentals/projects.md)
   * [Stake to Initiate](join-cohort/projects/stake-to-initiate.md)
   * [Expiration Timer](join-cohort/projects/expiration-timer.md)
-  * [Risk of Slashing](join-cohort/projects/tasks.md)
-* [Sponsor a Cohort](join-cohort/sponsor-a-cohort.md)
+  * [Risk of Slashing](fundamentals/tasks.md)
+* [Sponsor an Initiate](join-cohort/sponsor-a-cohort.md)
 * [Claim](fundamentals/members.md)
 
 ## Deploy a Cohort

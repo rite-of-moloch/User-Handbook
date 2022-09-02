@@ -2,8 +2,17 @@
 description: Up for the challenge?
 ---
 
-# Sponsor a Cohort
+# Sponsor an Initiate
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+Are you interested in helping stake an initiate into the cohort program? The Rite of Moloch allows anyone to act as a sponsor for another initiate.
+
+### How to Sponsor
+
+1. Connect your wallet to the Rite of Moloch dApp
+2. Check of "Sponsor an initiate"
+3. Add the initiate's wallet address
+4. Approve require staking amount
+5. Stake funds
+
+\
+<mark style="color:yellow;">{Screenshot}</mark>

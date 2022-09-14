@@ -18,7 +18,9 @@ This can only have after the [expiration time](expiration-timer.md) has passed.
 
 ### Soul Bound Token (SBT)
 
-Upon successfully staking the required tokens, the initiate will receive one Soul Bound Token. This token validates that they have staked the required tokens in order to participate in the current or upcoming cohort season and is non-transferable.
+Upon successfully staking the required tokens, the initiate will receive one Soul Bound Token. This token validates that they have staked the required tokens in order to participate in the current or upcoming cohort season and is non-transferable.&#x20;
+
+This token will be used to grant access within the [discord](https://discord.gg/raidguild) to the cohort specific channels.
 
 ### How to Stake and Receive a SBT
 

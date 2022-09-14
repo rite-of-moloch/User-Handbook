@@ -6,7 +6,7 @@ description: Do you have what it takes?
 
 ### What is a Raid Guild cohort?
 
-The cohort program allows groups of new initiates to participate in a series of onboard sessions, called a season.  Cohort members will learn what Raid Guild is all about, and how they can prepare for and envision participating on Raids and RIPs.
+The cohort program allows groups of new initiates to participate in a series of onboard sessions called a season.  Cohort members will learn what Raid Guild entails, projects the guild is currently working on, and how they can prepare for and envision participating on raids.
 
 ### What happens during the cohort season?
 
@@ -15,12 +15,8 @@ A combination of synchronous and asynchronous activity will occur for 3-4 weeks.
 * Information sessions
 * Cohort member introductions&#x20;
 * Team building
-* Raid formation
+* Role Identification
+* Cohort Raid formation
 * Completion of a cohort team project
-* Next steps
 
-
-
-### How to join
-
-<mark style="color:yellow;">{I'm curious if we should mention application process first, and joining the discord channel and speaking with the tavern keeper.  And from there, they may be encouraged to Stake}</mark>
+###

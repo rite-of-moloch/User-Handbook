@@ -12,7 +12,7 @@ DAOs invest time and resources into cohort programs with the hopes of onboarding
 
 ### What is at stake?
 
-The stake is used to claim the cohort SBT and solidify accountability to the group. Should the initiate fail to participate in the cohort or drop out that stake is at risk of being slashed and moved to the Raid Guild treasury. &#x20;
+The stake is used to claim the cohort SBT and solidify accountability to the group. Should the initiate fail to participate in the cohort or drop out, that stake is at risk of being slashed and moved to the Raid Guild treasury. &#x20;
 
 This can only have after the [expiration time](expiration-timer.md) has passed.
 

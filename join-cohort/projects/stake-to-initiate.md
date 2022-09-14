@@ -4,21 +4,15 @@ description: Skin in the Game.
 
 # Stake to Initiate
 
-As a new member joining a cohort you'll be required to add some skin in the game by staking a token to join the cohort.&#x20;
+As a new member joining a cohort you'll be required to add some skin in the game. &#x20;
 
 ### **Why?**
 
 DAOs invest time and resources into cohort programs with the hopes of onboarding new members.  In order to encourage serious participation and prevent waste, this dApp allows initiates to show they are serious about joining by token gating cohort access.&#x20;
 
-### What is at stake?
-
-The stake is used to claim the cohort SBT and solidify accountability to the group. Should the initiate fail to participate in the cohort or drop out that stale is at risk of being slashed and moved to the Raid Guild treasury. &#x20;
-
-This can only have after the [expiration time](expiration-timer.md) has passed.
-
 ### Soul Bound Token (SBT)
 
-Upon successfully staking the required tokens, the initiate will receive one Soul Bound Token. This token validates that they have staked the required tokens in order to participate in the current or upcoming cohort season and is non-transferable.
+Upon successfully staking the required tokens, the initiate will receive one Soul Bound Token. This token validates that they have staked the required tokens in order to participate in the current or upcoming cohort season.&#x20;
 
 ### How to Stake and Receive a SBT
 

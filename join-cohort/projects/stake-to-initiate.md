@@ -22,6 +22,16 @@ Upon successfully staking the required tokens, the initiate will receive one Sou
 
 This token will be used to grant access within the [discord](https://discord.gg/raidguild) to the cohort specific channels.
 
+{% hint style="info" %}
+What is a Soul Bound Token?
+
+* NFT where the transfer function has been overwritten so it reverts
+* Address is locked to the recipient of the NFT at mint
+* Stake to join cohort and receive SBT token
+  * NFT acts as on chain achievement for joining cohort
+  * NFT functions as access pass to token gated discord and resources
+{% endhint %}
+
 ### How to Stake and Receive a SBT
 
 1. Go to [initiate-rite.xyz](http://initiate-rite.xyz)

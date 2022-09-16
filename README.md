@@ -13,8 +13,7 @@ This tool has been designed for DAOs to require new cohort members to stake cert
 The staked assets are then forfeited if the user doesn’t complete the onboarding process. The individual cohort contracts are not upgradeable, but the cohort clone factory contract enables additional implementations to be added.
 
 {% hint style="info" %}
-Currently the cohorts are specifically designed for Moloch DAOs and DAOHaus, but we can easily add new implementations for staking NFTs, or different membership criteria.
+Currently, the cohorts are specifically designed for Moloch DAOs and DAOHaus, but we can easily add new implementations for staking NFTs, or different membership criteria.
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/VAZ8SDT.jpg" alt=""><figcaption></figcaption></figure>
-

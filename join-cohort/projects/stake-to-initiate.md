@@ -22,7 +22,7 @@ Upon successfully staking the required tokens, the initiate will receive one Sou
 
 This token will be used to grant access within the [discord](https://discord.gg/raidguild) to the cohort-specific channels.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 What is a Soul Bound Token (SBT)?
 
 * NFT where the transfer functions have been overwritten so they revert

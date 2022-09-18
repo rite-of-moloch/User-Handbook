@@ -9,6 +9,7 @@
   * [Expiration Timer](join-cohort/projects/expiration-timer.md)
   * [Preventing Slashing](fundamentals/tasks.md)
 * [Claim Stake](fundamentals/members.md)
+* [Sponsor Initiate](join-cohort/sponsor-initiate.md)
 
 ## Info
 

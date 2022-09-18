@@ -8,7 +8,7 @@ As a new member joining a cohort you'll be required to add some skin in the game
 
 ### **Why?**
 
-DAOs invest time and resources into cohort programs with the hopes of onboarding new members. To encourage serious participation and prevent waste, the Rite Of Moloch dApp allows initiates to show they are serious about joining Raid Guild.
+DAOs invest time and resources into cohort programs with the hopes of onboarding new members. To encourage serious participation and time wasted, the Rite Of Moloch dApp allows initiates to show they are serious about joining Raid Guild.
 
 ### What is at stake?
 

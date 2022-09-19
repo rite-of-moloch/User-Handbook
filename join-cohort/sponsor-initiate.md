@@ -10,4 +10,4 @@ The Rite of Moloch allows anyone to sponsor an initiate to the cohort, therefore
 4. Approve require staking amount
 5. Stake funds
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-09-18 at 3.19.57 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sponsor-initiate.jpg" alt=""><figcaption></figcaption></figure>

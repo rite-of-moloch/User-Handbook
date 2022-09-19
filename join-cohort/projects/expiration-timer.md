@@ -16,4 +16,4 @@ When the timer expires the Raid Guild can choose to slash your cohort membership
 
 Slay or be slain.
 
-<figure><img src="../../.gitbook/assets/expireation-timer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/expiration-timer.jpg" alt=""><figcaption></figcaption></figure>

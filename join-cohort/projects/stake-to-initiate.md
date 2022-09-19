@@ -45,6 +45,4 @@ What is a Soul Bound Token (SBT)?
 You can bridge DAI from Ethereum to Gnosis Chain using the [Gnosis Bridge](https://bridge.gnosischain.com/) and then swap to your token of choice using [Honeyswap](https://honeyswap.org/).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/staking-screenshot.png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../../.gitbook/assets/stake-initiate.jpg" alt=""><figcaption></figcaption></figure>

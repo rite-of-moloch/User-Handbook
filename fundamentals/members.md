@@ -6,5 +6,4 @@ description: Reclaim your jewels.
 
 Should you be granted Raid Guild membership then you will be allowed to claim your stake back from the cohort.
 
-<figure><img src="../.gitbook/assets/raid-guild-membership.jpg" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/raid-guild-membership.jpg" alt=""><figcaption><p>Congratulations Solider, Let's Slay some Moloch</p></figcaption></figure>

@@ -4,12 +4,12 @@ description: Do you have what it takes?
 
 # Join a Cohort
 
-### What is a Raid Guild cohort?
+### What is a RaidGuild cohort?
 
-The cohort program allows groups of new initiates to participate in a series of onboarding sessions called a season. Cohort members will learn what Raid Guild entails, projects the guild is currently working on, and prepare to participate in raids.
+The cohort program allows groups of new initiates to participate in a series of onboarding sessions called a season. Cohort members will learn what RaidGuild entails, projects the guild is currently working on, and prepare to participate in raids.
 
 {% hint style="info" %}
-You must be invited to join Raid Guild by a current member
+You must be invited to join RaidGuild by a current member
 {% endhint %}
 
 ### What happens during the cohort season?

@@ -1,6 +1,6 @@
 # Sponsor Initiate
 
-The Rite of Moloch allows anyone to sponsor an initiate to the cohort, effectively providing a grant for the participant.  We want to have a fallback for those joining DAOs with low or restricted financial resources.  If the sponsored contributor successfully joins the DAO - they are able to claim the tokens and get paid!
+The Rite of Moloch allows anyone to sponsor an initiate to the cohort, effectively providing a grant for the participant.  This enables participants with low or restricted financial resources the ability to join the cohort.  If the sponsored contributor successfully joins the DAO - they are able to claim the tokens and get paid!
 
 ### How to Sponsor
 

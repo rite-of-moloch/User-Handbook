@@ -15,3 +15,4 @@ Currently, the cohorts are specifically designed for Moloch DAOs, but we can eas
 
  
 
+![SM_header_plain](https://github.com/rite-of-moloch/User-Handbook/assets/104435781/59e849d6-05f8-49ba-b510-23bfd797f722)

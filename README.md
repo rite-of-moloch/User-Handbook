@@ -11,7 +11,7 @@ Currently, the cohorts are specifically designed for Moloch DAOs, but we can eas
 
 ## TL;DR
 
- Raid Guild is introducing an open source dApp (decentralized application) to help offset the costly onboarding process and reduce turnover.
+**Raid Guild is introducing an open source dApp (decentralized application) to help offset the costly onboarding process and reduce turnover.**
 
  
 

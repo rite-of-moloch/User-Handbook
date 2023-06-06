@@ -1,17 +1,3 @@
-# Table of contents
+# Summary
 
-* [RiteOfMoloch](README.md)
-
-## Join Cohort
-
-* [Join a Cohort](fundamentals/projects.md)
-  * [Stake to Initiate](join-cohort/projects/stake-to-initiate.md)
-  * [Expiration Timer](join-cohort/projects/expiration-timer.md)
-  * [Preventing Slashing](fundamentals/tasks.md)
-* [Sponsor Initiate](join-cohort/sponsor-initiate.md)
-* [Claim Stake](fundamentals/members.md)
-
-## Info
-
-* [Links](use-cases/for-designers/README.md)
-* [Gnosis Contracts](info/gnosis-mainnet-contracts.md)
+Rite of Moloch is (no) HR for DAOs. By requiring contributors to deposit a bond for being awarded a DAO contract via staking, we increase accountability. We integrated RoM with HATs and DAOHaus v3 to enable reusable cohorts and the governance of staked member bonds. As we are transitioning into release mode, aiming to further our integration with DAOHaus for creating meaningful impact in communities.

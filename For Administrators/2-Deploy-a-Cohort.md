@@ -26,7 +26,8 @@ For the cohort to fit your needs as onboarding party, you will have to adjust th
 - a maximum for cohort members to stake
 - required shares in your DAO for cohort members to reclaim their stake
 
-![5 2_ROM_cohort_deploy](https://github.com/rite-of-moloch/User-Handbook/assets/104435781/9b0d62a3-2b8e-402e-a9c7-ae3c4cde6911)
+![ROM_updated_cohort_deploy](https://github.com/rite-of-moloch/User-Handbook/assets/104435781/28fadf3e-28ca-4522-8f93-643e07205e67)
+
 
 ## 2.4 Set permissions for your cohort
 As we are working on DAOs as teams, you can add up to two additional administrators, who can slash members. Furthermore, you can make your cohort a shaman of your v.3 Moloch DAO for re-using your cohort and automating the onboarding process. Lastly, you can import an existing TOP HAT of your DAO to integrate ROM into your custom identity management setup.

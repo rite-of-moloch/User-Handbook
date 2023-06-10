@@ -37,3 +37,12 @@ Sometimes it does not work out from the beginning, or someone repeatedly violate
 <img width="1044" alt="6 7_ROM_manage_cohort_member_slashing_TXN" src="https://github.com/rite-of-moloch/User-Handbook/assets/104435781/98adffe6-2d8a-4cb7-9403-1b730eab964c">
 
 ![6 8_ROM_manage_cohort_member_manually_slashed](https://github.com/rite-of-moloch/User-Handbook/assets/104435781/744ce746-cda5-4da3-9bed-9ff3cba1373f)
+
+## 1.5 Sacrificing Cohorts
+
+The *Sacrifice* command slashes all members, who have not achieved DAO membership for claiming back their stake and carries over all successful members into a new cohort. This is done through the power of the Shaman, which is deployed to the DAO in the deploy cohort flow. Since a Shaman has special permissions in a DAO, it is wise to make cohorts reusable without having to deploy manifold Shamans.
+
+
+![ROM_sacrifice](https://github.com/rite-of-moloch/User-Handbook/assets/104435781/cfa4ec46-0a40-483f-a32a-10f29d5f6c14)
+
+
